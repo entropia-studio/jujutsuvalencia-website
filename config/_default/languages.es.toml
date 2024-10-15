@@ -1,12 +1,11 @@
-disabled = false
-languageCode = "en"
-languageName = "English"
+languageCode = "es"
+languageName = "Spanish (Spain)"
 weight = 1
 title = "Ju-jutsu Valencia"
 
 [params]
-  displayName = "EN"
-  isoCode = "en"
+  displayName = "ES"
+  isoCode = "es"
   rtl = false
   dateFormat = "2 January 2006"
   logo = "img/jujutsuvalencia_logo.png"
@@ -16,16 +15,14 @@ title = "Ju-jutsu Valencia"
 
 [params.author]
   name = "Ju-jutsu Valencia"
-  email = "agatsujujutsujapones@gmail.com"
+  email = "mailto:agatsujujutsujapones@gmail.com"
   image = "img/jujutsuvalencia_logo_sello.png"
-  headline = "Ju-jutsu tradicional en Valencia."
+  headline = "Ju-jutsu tradicional japonés en Valencia"
   bio = "Enseñamos Ju-jutsu japonés enfocado en la defensa personal y el desarrollo integral de nuestros alumnos."
   links = [
-    { email = "agatsujujutsujapones@gmail.com" },
-    { instagram = "https://instagram.com/username" },
-    { youtube = "https://youtube.com/username" },
+    { email = "mailto:agatsujujutsujapones@gmail.com" },
+    { facebook = "https://www.facebook.com/p/Asociaci%C3%B3n-budo-Jiu-jitsu-japon%C3%A9s-100051498045985/?locale=es_ES" },
   ]
-
 
 # [params.author]
 #   name = "Your name here"
