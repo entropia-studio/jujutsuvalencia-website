@@ -10,7 +10,7 @@ showTableOfContents: true
 
 ## El Club Ju-Jutsu Valencia entrena en el Dojo Hikari Valencia
 
-Nos encontramos en el <a href="https://hikarivalencia.es/">Dojo Hikari Valencia</a>, ubicado en el barrio de Campanar, Valencia. Este dojo es el lugar perfecto para el entrenamiento de Ju-jutsu, ofreciendo un ambiente profesional y acogedor donde los alumnos de todos los niveles pueden mejorar sus habilidades en esta tradicional arte marcial japonesa.
+Nos encontramos en el <a href="https://hikarivalencia.es/"  target="_blank" rel="noopener noreferrer">Dojo Hikari Valencia</a>, ubicado en el barrio de Campanar, Valencia. Este dojo es el lugar perfecto para el entrenamiento de Ju-jutsu, ofreciendo un ambiente profesional y acogedor donde los alumnos de todos los niveles pueden mejorar sus habilidades en esta tradicional arte marcial japonesa.
 
 El Dojo Hikari, conocido por su dedicación a la enseñanza de las artes marciales, proporciona un espacio adecuado para el aprendizaje y la práctica de técnicas de defensa personal, combate y autocontrol, pilares fundamentales del Ju-jutsu.
 
