@@ -9,10 +9,23 @@ title = "Ju-jutsu Valencia"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
-  # logo = "img/logo.png"
+  logo = "img/jujutsuvalencia_logo.png"
   # secondaryLogo = "img/secondary-logo.png"
   # description = "My awesome website"
-  # copyright = "Copy, _right?_ :thinking_face:"
+  # copyright = "© 2024 Ju-jutsu Valencia"
+
+[params.author]
+  name = "Ju-jutsu Valencia"
+  email = "agatsujujutsujapones@gmail.com"
+  image = "img/jujutsuvalencia_logo_sello.png"
+  headline = "Ju-jutsu tradicional en Valencia."
+  bio = "Enseñamos Ju-jutsu japonés enfocado en la defensa personal y el desarrollo integral de nuestros alumnos."
+  links = [
+    { email = "agatsujujutsujapones@gmail.com" },
+    { instagram = "https://instagram.com/username" },
+    { youtube = "https://youtube.com/username" },
+  ]
+
 
 # [params.author]
 #   name = "Your name here"
