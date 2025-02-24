@@ -1,5 +1,8 @@
+[pagination]
+pagerSize = 10
+
 [module]
 [module.hugoVersion]
 extended = true
 min = "0.87.0"
-max = "0.135.0"
+max = "0.144.2"
