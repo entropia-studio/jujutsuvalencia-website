@@ -1,5 +1,5 @@
-colorScheme = "bloody"
-defaultAppearance = "light"
+colorScheme = "fire"
+defaultAppearance = "dark"
 autoSwitchAppearance = false
 enableSearch = false
 enableCodeCopy = true
