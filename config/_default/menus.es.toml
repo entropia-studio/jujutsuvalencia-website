@@ -16,10 +16,10 @@
   pageRef = "donde-estamos"
   weight = 10  
 
-#[[main]]
-#  name = "Blog"
-#  pageRef = "posts"
-#  weight = 10
+[[main]]
+ name = "Clase gratis"
+ url = "#clase-gratis"
+ weight = 10
 
 #[[main]]
 #  name = "Parent"
