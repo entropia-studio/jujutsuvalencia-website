@@ -12,9 +12,15 @@
 
 
 [[main]]
-  name = "Dónde estamos"
-  pageRef = "donde-estamos"
+  name = "Clase gratis"
+  url = "#clase-de-prueba-gratuita"
   weight = 10  
+
+[[main]]
+  name = "Dónde estamos"
+  url = "#d%C3%B3nde-estamos"
+  weight = 20
+
 
 #[[main]]
 #  name = "Blog"
