@@ -13,12 +13,17 @@
 
 [[main]]
   name = "Clase gratis"
-  url = "#clase-de-prueba-gratuita"
+  url = "/#clase-de-prueba-gratuita"
   weight = 10  
 
 [[main]]
   name = "Dónde estamos"
-  url = "#d%C3%B3nde-estamos"
+  url = "/#d%C3%B3nde-estamos"
+  weight = 20
+
+[[main]]
+  name = "Preguntas frecuentes"
+  url = "preguntas-frecuentes"
   weight = 20
 
 

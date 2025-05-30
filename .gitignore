@@ -1,1 +1,26 @@
-public/
+# Generated public/ content
+/public/
+/resources/_gen/
+/assets/jsconfig.json
+resources/
+# HUGO CACHE
+hugo_stats.json
+
+# NPM
+node_modules/
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS
+.DS_Store
+Thumbs.db
+
+# HUGO SERVER
+.hugo_build.lock 

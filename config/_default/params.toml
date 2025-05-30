@@ -1,5 +1,5 @@
 colorScheme = "fire"
-defaultAppearance = "dark"
+defaultAppearance = "light"
 autoSwitchAppearance = false
 enableSearch = false
 enableCodeCopy = true
@@ -16,7 +16,7 @@ layout = "fixed-fill"
 showMenu = true
 showCopyright = true
 showThemeAttribution = false
-showAppearanceSwitcher = true
+showAppearanceSwitcher = false
 showScrollToTop = true
 
 [homepage]
@@ -28,7 +28,7 @@ showMoreLinkDest = "/posts/"
 cardView = false
 cardViewScreenWidth = false
 layoutBackgroundBlur = false
-homepageImage = "hero-image.jpg"
+homepageImage = "Jujutsu-01.png"
 
 [article]
 showDate = true

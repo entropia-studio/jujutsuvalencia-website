@@ -8,7 +8,7 @@ showDate: false
 showTableOfContents: true
 ---
 
-{{< figure src="hero-image.jpg" alt="Jiu-Jitsu japonés" >}}
+{{< figure src="jujutsu-hero-hikari.png" alt="Jiu-Jitsu japonés" >}}
 
 ## ¿Qué es el Jiu-Jitsu japonés?
 ### Defensa personal integral y efectiva
