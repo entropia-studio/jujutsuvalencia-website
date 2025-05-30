@@ -1,4 +1,4 @@
-colorScheme = "bloody"
+colorScheme = "fire"
 defaultAppearance = "light"
 autoSwitchAppearance = false
 enableSearch = false
@@ -8,6 +8,12 @@ disableImageOptimization = false
 disableTextInHeader = false
 giteaDefaultServer = "https://git.fsfe.org"
 forgejoDefaultServer = "https://v8.next.forgejo.org"
+firebase = { }
+fathomAnalytics = { }
+umamiAnalytics = { }
+selineAnalytics = { }
+buymeacoffee = { }
+verification = { }
 
 [header]
 layout = "fixed-fill"
@@ -16,7 +22,7 @@ layout = "fixed-fill"
 showMenu = true
 showCopyright = true
 showThemeAttribution = false
-showAppearanceSwitcher = true
+showAppearanceSwitcher = false
 showScrollToTop = true
 
 [homepage]
@@ -28,7 +34,7 @@ showMoreLinkDest = "/posts/"
 cardView = false
 cardViewScreenWidth = false
 layoutBackgroundBlur = false
-homepageImage = "hero-image.jpg"
+homepageImage = "Jujutsu-01.png"
 
 [article]
 showDate = true
@@ -92,15 +98,3 @@ showTableOfContents = true
 groupByYear = false
 cardView = false
 cardViewScreenWidth = false
-
-[firebase]
-
-[fathomAnalytics]
-
-[umamiAnalytics]
-
-[selineAnalytics]
-
-[buymeacoffee]
-
-[verification]
