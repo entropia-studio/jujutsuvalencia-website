@@ -18,13 +18,14 @@
 
 [[main]]
   name = "Dónde estamos"
-  url = "/#d%C3%B3nde-estamos"
+  url = "/#lugar-de-entreno"
   weight = 20
+
 
 [[main]]
   name = "Preguntas frecuentes"
   url = "preguntas-frecuentes"
-  weight = 20
+  weight = 30
 
 
 #[[main]]

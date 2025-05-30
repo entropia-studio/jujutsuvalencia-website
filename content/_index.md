@@ -40,11 +40,11 @@ El Jiu-Jitsu japonés (Jujutsu) es un arte marcial tradicional completo del que 
 
 Dojo Hikari: <a href="tel:+34961139109">+34 961 13 91 09</a>
 
-## Horarios ##
+## Horarios
 
 Lunes, miércoles y viernes de 19:00 a 20:00.
 
-## ¿Dónde estamos?
+## Lugar de entreno
 
 Nos encontramos en el <a href="https://hikarivalencia.es/"  target="_blank" rel="noopener noreferrer">Dojo Hikari Valencia</a>, ubicado en el barrio de Campanar, Valencia. Este dojo es el lugar perfecto para el entrenamiento de Ju-jutsu, ofreciendo un ambiente profesional y acogedor donde los alumnos de todos los niveles pueden mejorar sus habilidades en esta tradicional arte marcial japonesa.
 
